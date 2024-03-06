@@ -1,0 +1,1 @@
+# ai-book-summarizer-springboot-langchain4j-astradb
