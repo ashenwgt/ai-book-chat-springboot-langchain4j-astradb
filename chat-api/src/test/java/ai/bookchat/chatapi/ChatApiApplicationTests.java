@@ -1,10 +1,10 @@
-package com.demo.aibooksummarizer;
+package ai.bookchat.chatapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AiBookSummarizerApplicationTests {
+class ChatApiApplicationTests {
 
 	@Test
 	void contextLoads() {
