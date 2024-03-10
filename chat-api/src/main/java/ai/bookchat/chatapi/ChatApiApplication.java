@@ -18,7 +18,7 @@ import static dev.langchain4j.data.document.loader.FileSystemDocumentLoader.load
 
 @SpringBootApplication
 public class ChatApiApplication {
-private final EmbeddingStoreIngestor embeddingStoreIngestor;
+    private final EmbeddingStoreIngestor embeddingStoreIngestor;
 
     public ChatApiApplication(EmbeddingStoreIngestor embeddingStoreIngestor) {
         this.embeddingStoreIngestor = embeddingStoreIngestor;

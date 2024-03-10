@@ -17,7 +17,7 @@
 		<java.version>21</java.version>
 	</properties>
 	<dependencies>
-		<!-- sprinboot dependencies -->
+		<!-- springboot dependencies -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
